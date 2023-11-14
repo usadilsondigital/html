@@ -60,6 +60,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg1">
                         <img id="myImg" src="./images/projects/g1.jpg" alt="Snow" style="width:300px;height:200px">
+                        <span style="color:white;">AUSTIN TX*</span>
                     </button>
                     <div class="modal" id="exampleModalg1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -76,6 +77,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg2">
                         <img id="myImg" src="./images/projects/g2.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <span style="color:white;">AUSTIN TX*</span>
                     </button>
                     <div class="modal" id="exampleModalg2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -92,6 +94,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg3">
                         <img id="myImg" src="./images/projects/g3.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <span style="color:white;">AUSTIN TX*</span>
                     </button>
                     <div class="modal" id="exampleModalg3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -113,6 +116,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg4">
                         <img id="myImg" src="./images/projects/g4.jpg" alt="Snow" style="width:300px;height:200px">
+                        <span style="color:white;">MASSACHUSETTS*</span>
                     </button>
                     <div class="modal" id="exampleModalg4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -129,6 +133,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg5">
                         <img id="myImg" src="./images/projects/g5.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <span style="color:white;">AUSTIN TX*</span>
                     </button>
                     <div class="modal" id="exampleModalg5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -145,6 +150,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg6">
                         <img id="myImg" src="./images/projects/g6.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <span style="color:white;">AUSTIN TX*</span>
                     </button>
                     <div class="modal" id="exampleModalg6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
