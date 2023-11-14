@@ -15,9 +15,7 @@
   <script src="js/index.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-  <link href="fa6.2.1/css/all.css" rel="stylesheet">
-  <link href="fa6.2.1/css/brands.css" rel="stylesheet">
-  <link href="fa6.2.1/css/solid.css" rel="stylesheet">
+  
   <link href="./css/all.css" rel="stylesheet">
   <link href="./css/index.css" rel="stylesheet">
   <!-- Favicons -->
