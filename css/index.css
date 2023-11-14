@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 3px;
+  color:white;
+}
+a:link {
+  text-decoration: none;
+  color:white;
+}
+
+a:visited {
+  text-decoration: none;
+  color:white;
+}
+
+a:hover {
+  text-decoration: underline;
+
+  color:white;
+}
+
+a:active {
+  text-decoration: underline;
+  color:white;
+}
