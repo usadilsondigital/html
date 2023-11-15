@@ -1,5 +1,35 @@
 
 
+.vertical-menu {
+  width: 110px;
+  /* Set a width if you like */
+  margin-top: 10px;
+}
+
+.vertical-menu a {
+  background-color: #f8d68f;
+  /* Grey background color */
+  color: black;
+  /* Black text color */
+  display: block;
+  /* Make the links appear below each other */
+  /*padding: 12px;  Add some padding */
+  text-decoration: none;
+  /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+  /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #7c80c4;
+  /* Add a green color to the "active/current" link */
+  color: white;
+}
+
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .responsive {
