@@ -82,7 +82,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalh1">
                         <img id="myImg" src="./images/projects/h1.jpg" alt="Snow" style="width:300px;height:200px">
-                        <p style="color:white;">PALMIRA NY*</p>
+                        <p style="color:white;">PALMYRA NY*</p>
                     </button>
                     <div class="modal" id="exampleModalh1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
