@@ -15,7 +15,7 @@
     <script src="js/projects.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <link href="./css/all.css" rel="stylesheet">
     <link href="./css/projects.css" rel="stylesheet">
     <!-- Favicons -->
@@ -31,29 +31,7 @@
 
     <script defer="" src="https://cdn.usefathom.com/script.js" data-site="ITUSEYJG"></script>
 
-<style>
-    .vertical-menu {
-  width: 110px; /* Set a width if you like */
-  margin-top:10px;
-}
-
-.vertical-menu a {
-  background-color: #eee; /* Grey background color */
-  color: black; /* Black text color */
-  display: block; /* Make the links appear below each other */
-  /*padding: 12px;  Add some padding */
-  text-decoration: none; /* Remove underline from links */
-}
-
-.vertical-menu a:hover {
-  background-color: #ccc; /* Dark grey background on mouse-over */
-}
-
-.vertical-menu a.active {
-  background-color: #04AA6D; /* Add a green color to the "active/current" link */
-  color: white;
-}
-    </style>
+    
 
 </head>
 
@@ -70,11 +48,10 @@
         <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;">
             <img src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
             <div class="vertical-menu">
-                <a href="#" class="active">Home</a>
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
-                <a href="#">Link 4</a>
+                <a href="index.php" class="active">Home</a>
+                <a href="bio.php">About</a>
+                <a href="projects.php">Projects</a>
+                <a href="contact.php">Contact</a>
             </div>
         </div>
 
