@@ -64,14 +64,14 @@
                 <div class="col g-0">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="projects">One</a></li>
-                            <li class="breadcrumb-item"><a href="projects2">Two</a></li>
-                            <li class="breadcrumb-item"><a href="projects3">Three</a></li>
-                            <li class="breadcrumb-item"><a href="projects4">Four</a></li>
-                            <li class="breadcrumb-item"><a href="projects5">Five</a></li>
-                            <li class="breadcrumb-item"><a href="projects6">Six</a></li>
-                            <li class="breadcrumb-item"><a href="projects7">Seven</a></li>
-                            <li class="breadcrumb-item"><a href="projects8">Eight</a></li>
+                            <li class="breadcrumb-item"><a href="projects.php">One</a></li>
+                            <li class="breadcrumb-item"><a href="projects2.php">Two</a></li>
+                            <li class="breadcrumb-item"><a href="projects3.php">Three</a></li>
+                            <li class="breadcrumb-item"><a href="projects4.php">Four</a></li>
+                            <li class="breadcrumb-item"><a href="projects5.php">Five</a></li>
+                            <li class="breadcrumb-item"><a href="projects6.php">Six</a></li>
+                            <li class="breadcrumb-item"><a href="projects7.php">Seven</a></li>
+                            <li class="breadcrumb-item"><a href="projects8.php">Eight</a></li>
                         </ol>
                     </nav>
                 </div>
