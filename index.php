@@ -15,7 +15,7 @@
   <script src="js/index.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-  
+
   <link href="./css/all.css" rel="stylesheet">
   <link href="./css/index.css" rel="stylesheet">
   <!-- Favicons -->
@@ -59,7 +59,7 @@
 <body>
   <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-regular fa-up-to-line"></i></button>
 
-  <nav class="navbar " style="height: 120px;">
+  <nav class="navbar " style="height: 100px;">
     <div class="container">
       <a class="navbar-brand" href="#">
       </a>
@@ -71,20 +71,20 @@
 
       <img src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
       <div class="vertical-menu">
-                <a href="index.php" class="active">Home</a>
-                <a href="bio.php">About</a>
-                <a href="projects.php">Projects</a>
-                <a href="contact.php">Contact</a>
-            </div>
+        <a href="index.php" class="active">Home</a>
+        <a href="bio.php">About</a>
+        <a href="projects.php">Projects</a>
+        <a href="contact.php">Contact</a>
+      </div>
     </div>
 
 
     <div class="col-10 g-0" style="padding-left:35px;">
 
       <img src="./images/front/frontimage.jpg" alt="FrontImage" width="100%" height="280" style="opacity: 0.5;">
-      <h3 style="margin-top:-5px;margin-bottom:0px;position:absolute;top:20%;"> <b>STUART M ALDERMAN</b></h3>
-      <h3 style="position:absolute;top:25%;"> <b> ARCHITECT AIA</b></h3>
-      <h4 style="position:absolute;top:30%;"> Design with a Personal Touch </h4>
+      <h3 style="margin-top:-5px;margin-bottom:0px;position:absolute;top:15%;"> <b>STUART M ALDERMAN</b></h3>
+      <h3 style="position:absolute;top:20%;"> <b> ARCHITECT AIA</b></h3>
+      <h4 style="position:absolute;top:25%;"> Design with a Personal Touch </h4>
 
       <div class="row g-0">
         <div class="col-7 g-0"><img src="./images/front/frontimage2.jpg" alt="FrontImage" width="100%" height="250" style="opacity: 0.5;"></div>
@@ -97,6 +97,12 @@
 
 
   </div>
+
+
+  <div class="copyright">
+    <span>Copyright <?php echo date("Y") ?> / Developed by Adilson</span>
+  </div>
+
 
 
   <script>
@@ -118,6 +124,7 @@
       document.documentElement.scrollTop = 0;
     }
   </script>
+
 
 </body>
 

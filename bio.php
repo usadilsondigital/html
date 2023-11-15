@@ -15,7 +15,7 @@
     <script src="js/bio.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <link href="./css/all.css" rel="stylesheet">
     <link href="./css/bio.css" rel="stylesheet">
     <!-- Favicons -->
@@ -41,7 +41,7 @@
 
 <body>
 
-    <nav class="navbar " style="height: 120px;">
+    <nav class="navbar " style="height: 100px;">
         <div class="container">
             <a class="navbar-brand" href="#">
             </a>
@@ -83,7 +83,7 @@
                 SUMMER PROGRAM IN ARCHITECTURE AND WENT ON TO GRADUATE FROM THE</p>
 
             <p style="font-size: 12px; ">
-                 SYRACUSE UNIVERSITY SCHOOL OF ARCHITECTURE</p>
+                SYRACUSE UNIVERSITY SCHOOL OF ARCHITECTURE</p>
 
             <p style="font-size: 12px; margin-bottom:0px;margin-bottom:0px;">
                 AFTER SEVERAL YEARS OF WORK IN DALLAS, TEXAS HE MOVED HIS FAMILY TO</p>
@@ -113,12 +113,12 @@
                 ARCHITECTURE AND DESIGN FOR YOUR PROJECT</p>
 
             <p style="padding: 0px;margin-top:0px; margin-bottom:0px;font-size: 12px;">
-            HE WORKS IN MANY STATES BUT PRINCIPALLY TEXAS, CALIFORNIA AND NEW YORK</p>
+                HE WORKS IN MANY STATES BUT PRINCIPALLY TEXAS, CALIFORNIA AND NEW YORK</p>
 
             <p style="font-size: 10px; margin-bottom:0px;">
-            * &nbsp;DENOTES PROJECT DESIGNED BY STUART M. ALDERMAN ,AIA ARCHITECT WHILE A PRINCIPAL AT SKB    </p>
+                * &nbsp;DENOTES PROJECT DESIGNED BY STUART M. ALDERMAN ,AIA ARCHITECT WHILE A PRINCIPAL AT SKB </p>
             <p style="font-size: 8px; ">
-            ARCHITECTURE AND DESIGN OR BLOCK 16 ARCHITECTS AND URBANISTS
+                ARCHITECTURE AND DESIGN OR BLOCK 16 ARCHITECTS AND URBANISTS
             </p>
 
             <p style="font-size: 14px;padding: 0px;margin-top:0px; margin-bottom:0px;"> &nbsp;IT IS MY DESIRE TO GIVE YOU AN OPPORTUNITY </p>
@@ -134,6 +134,10 @@
             <img src="./images/stuart.jpg" alt="FrontImage" width="100%" height="300">
 
         </div>
+    </div>
+
+    <div class="copyright">
+        <span>Copyright <?php echo date("Y") ?> / Developed by Adilson</span>
     </div>
 
 </body>

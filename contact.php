@@ -15,7 +15,7 @@
     <script src="js/contact.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <link href="./css/all.css" rel="stylesheet">
     <link href="./css/contact.css" rel="stylesheet">
     <!-- Favicons -->
@@ -47,7 +47,7 @@
 
 
     <div class="row g-0">
-        <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;margin-top:120px;">
+        <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;margin-top:100px;">
 
             <img src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
             <div class="vertical-menu">
@@ -78,8 +78,12 @@
         <p>PHONE: 512-699-8362</p>
         <p>EMAIL: SALDERMAN@ALDERMANARCHITECT.COM</p>
         <p style="font-size: 10px;margin-bottom:0px;">P.O. BOX 27157 AUSTIN TEXAS 78755</p>
-        <p  style="font-size: 10px;margin-bottom:0px;">LICENSED IN TEXAS – NEW YORK-  CALIFORNIA – HAWAII – WASHINGTON - IDAHO</p>
+        <p style="font-size: 10px;margin-bottom:0px;">LICENSED IN TEXAS – NEW YORK- CALIFORNIA – HAWAII – WASHINGTON - IDAHO</p>
 
+    </div>
+
+    <div class="copyright">
+        <span>Copyright <?php echo date("Y") ?> / Developed by Adilson</span>
     </div>
 
 </body>

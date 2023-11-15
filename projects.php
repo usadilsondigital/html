@@ -36,7 +36,7 @@
 
 <body>
 
-    <nav class="navbar " style="height: 120px;">
+    <nav class="navbar " style="height: 100px;">
         <div class="container">
             <a class="navbar-brand" href="#">
             </a>
@@ -203,7 +203,9 @@
 
 
 
-
+    <div class="copyright">
+        <span>Copyright <?php echo date("Y") ?> / Developed by Adilson</span>
+    </div>
 
 </body>
 
