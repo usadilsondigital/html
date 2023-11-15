@@ -81,7 +81,7 @@
 
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc1">
-                        <img id="myImg" src="./images/projects/c1.jpg" alt="Snow" style="width:300px;height:200px">
+                        <img class="myImg" src="./images/projects/c1.jpg" alt="Snow">
                         <p style="color:white;">MACEDON NY*</p>
                     </button>
                     <div class="modal" id="exampleModalc1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -89,7 +89,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c1.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c1.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
@@ -98,7 +98,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc2">
-                        <img id="myImg" src="./images/projects/c2.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/c2.jpg" alt="Snow" style=width:300px;height:200px;">
                         <p style="color:white;">MACEDON NY*</p>
                     </button>
                     <div class="modal" id="exampleModalc2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -106,7 +106,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c2.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c2.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc3">
-                        <img id="myImg" src="./images/projects/c3.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/c3.jpg" alt="Snow" style="width:300px;height:200px;">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModalc3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -123,7 +123,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c3.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c3.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
@@ -137,7 +137,7 @@
 
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc4">
-                        <img id="myImg" src="./images/projects/c4.jpg" alt="Snow" style="width:300px;height:200px">
+                        <img class="myImg" src="./images/projects/c4.jpg" alt="Snow">
                         <p style="color:white;">MACEDON NY*</p>
                     </button>
                     <div class="modal" id="exampleModalc4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -145,7 +145,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c4.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c4.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc5">
-                        <img id="myImg" src="./images/projects/c5.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/c5.jpg" alt="Snow" style=width:300px;height:200px;">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModalc5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -162,7 +162,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c5.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c5.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalc6">
-                        <img id="myImg" src="./images/projects/c6.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/c6.jpg" alt="Snow" style="width:300px;height:200px;">
                         <p style="color:white;">CANANDAIGUA NY*</p>
                     </button>
                     <div class="modal" id="exampleModalc6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -179,7 +179,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img id="myImg" src="./images/projects/c6.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/c6.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
