@@ -98,7 +98,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalf2">
-                        <img class="myImg" src="./images/projects/f2.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/f2.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModalf2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalf3">
-                        <img class="myImg" src="./images/projects/f3short.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/f3short.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModalf3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -154,7 +154,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalf5">
-                        <img class="myImg" src="./images/projects/f5.jpg" alt="Snow" style=width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/f5.jpg" alt="Snow">
                         <p style="color:white;">CEDAR PARK TX*</p>
                     </button>
                     <div class="modal" id="exampleModalf5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalf6">
-                        <img class="myImg" src="./images/projects/f6.jpg" alt="Snow" style="width:300px;height:200px;">
+                        <img class="myImg" src="./images/projects/f6.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModalf6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
