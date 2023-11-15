@@ -38,6 +38,19 @@ div.copyright {
   margin-top:15px;
 }
 
+.p1{
+  padding: 0px;margin-top:0px; font-size: 12px;margin-bottom:0px;
+}
+.p2{
+  padding: 0px;margin-top:0px; font-size: 12px;
+}
+.p3{
+  font-size: 12px; margin-bottom:0px;
+}
+.p4{
+  font-size: 14px;padding: 0px;margin-top:0px; margin-bottom:0px;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .responsive {
@@ -45,7 +58,7 @@ div.copyright {
     height: auto;
   }
  
-  /*#leftlogo{
+  #leftlogo{
     width: 30px;
   }
 
@@ -53,7 +66,26 @@ div.copyright {
     width: 50px;
     margin-top: 10px;
     font-size: 12px;
-  }*/
+  }
+  #stuartimage{
+    width: auto;
+    height: 130px;
+  }
+
+  
+
+  .p1{
+    padding: 0px;margin-top:0px; font-size: 8px;margin-bottom:0px;
+    }
+    .p2{
+        padding: 0px;margin-top:0px; font-size: 8px;
+    }
+    .p3{
+        font-size: 8px; margin-bottom:0px;
+    }
+    .p4{
+      font-size: 8px;padding: 0px;margin-top:0px; margin-bottom:0px;
+  }
   
 }
 

@@ -45,7 +45,7 @@
 
     <div class="row g-0">
         <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;">
-            <img src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
+            <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
             <div class="vertical-menu">
                 <a href="index.php" class="active">Home</a>
                 <a href="bio.php">About</a>
