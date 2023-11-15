@@ -77,7 +77,7 @@
                 ART CLASSES.</p>
 
             <p style="font-size: 12px; margin-bottom:0px;">
-                HE SPENT A SUMMER WHILE IN HIGH SCHOOL AT CORNELL UNIVERSITIES’ </p>
+                HE SPENT A SUMMER WHILE IN HIGH SCHOOL AT CORNELL UNIVERSITIES' </p>
 
             <p style="font-size: 12px; margin-bottom:0px;">
                 SUMMER PROGRAM IN ARCHITECTURE AND WENT ON TO GRADUATE FROM THE</p>
