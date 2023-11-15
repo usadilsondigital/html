@@ -15,7 +15,7 @@
     <script src="js/projects.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <link href="./css/all.css" rel="stylesheet">
     <link href="./css/projects.css" rel="stylesheet">
     <!-- Favicons -->
@@ -57,7 +57,20 @@
 
         <div class="col-10 g-0" style="padding-left:35px;">
 
-            <h3 style="margin-top:-5px;margin-bottom:10px;"> <b>REPRESENTATIVE PROJECTS</b></h3>
+            <div class="row g-0">
+                <div class="col g-0">
+                    <h3 style="margin-top:-5px;margin-bottom:10px;"> <b>REPRESENTATIVE PROJECTS</b></h3>
+                </div>
+                <div class="col g-0">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a href="#">Library</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Data</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
 
             <div class="row g-0">
 
@@ -77,7 +90,7 @@
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg2">
                         <img id="myImg" src="./images/projects/g2.jpg" alt="Snow" style=width:300px;height:200px;">
@@ -133,7 +146,7 @@
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg5">
                         <img id="myImg" src="./images/projects/g5.jpg" alt="Snow" style=width:300px;height:200px;">
@@ -181,7 +194,7 @@
         </div>
     </div>
 
-    
+
 
 
 
