@@ -172,7 +172,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalg6">
                         <img id="myImg" src="./images/projects/g6.jpg" alt="Snow" style="width:300px;height:200px;">
-                        <p style="color:white;">AUSTIN TX*</p>
+                        <p style="color:white;">CEDAR PARK TX*</p>
                     </button>
                     <div class="modal" id="exampleModalg6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">

@@ -157,7 +157,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                         <img id="myImg" src="./images/projects/a5.jpg" alt="Snow" style=width:300px;height:200px;">
-                        <p style="color:white;">LOS GATOS CA*</p>
+                        <p style="color:white;">PALMYRA NY*</p>
                     </button>
                     <div class="modal" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
