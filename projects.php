@@ -101,7 +101,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                         <img id="myImg" src="./images/projects/a2.jpg" alt="Snow" style=width:300px;height:200px;">
-                        <span style="color:white;">LOS GATOS CA*</span>
+                        <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -118,7 +118,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                         <img id="myImg" src="./images/projects/a3.jpg" alt="Snow" style="width:300px;height:200px;">
-                        <span style="color:white;">LOS GATOS CA*</span>
+                        <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -140,7 +140,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                         <img id="myImg" src="./images/projects/a4.jpg" alt="Snow" style="width:300px;height:200px">
-                        <span style="color:white;">AUSTIN TX*</span>
+                        <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -157,7 +157,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                         <img id="myImg" src="./images/projects/a5.jpg" alt="Snow" style=width:300px;height:200px;">
-                        <span style="color:white;">LOS GATOS CA*</span>
+                        <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -174,7 +174,7 @@
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                         <img id="myImg" src="./images/projects/a6.jpg" alt="Snow" style="width:300px;height:200px;">
-                        <span style="color:white;">PALMYRA NY*</span>
+                        <p style="color:white;">PALMYRA NY*</p>
                     </button>
                     <div class="modal" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
