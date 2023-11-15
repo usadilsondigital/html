@@ -78,7 +78,7 @@
         <p>PHONE: 512-699-8362</p>
         <p>EMAIL: SALDERMAN@ALDERMANARCHITECT.COM</p>
         <p style="font-size: 10px;margin-bottom:0px;">P.O. BOX 27157 AUSTIN TEXAS 78755</p>
-        <p style="font-size: 10px;margin-bottom:0px;">LICENSED IN TEXAS – NEW YORK- CALIFORNIA – HAWAII – WASHINGTON - IDAHO</p>
+        <p style="font-size: 10px;margin-bottom:0px;">LICENSED IN TEXAS &#8212; NEW YORK &#8212; CALIFORNIA &#8212; HAWAII &#8212; WASHINGTON &#8212; IDAHO</p>
 
     </div>
 
