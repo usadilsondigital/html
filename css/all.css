@@ -58,8 +58,168 @@ margin-top:-5px;margin-bottom:10px;
   height: 200px;
 
 }
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+
+
+@media only screen and (min-width: 600px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: red;
+}
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+ 
+  #leftlogo{
+    width: 30px;
+  }
+
+  .vertical-menu {
+    width: 50px;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  #stuartimage{
+    width: auto;
+    height: 130px;
+  }
+  .p1{
+    padding: 0px;margin-top:0px; font-size: 8px;margin-bottom:0px;
+    }
+    .p2{
+        padding: 0px;margin-top:0px; font-size: 8px;
+    }
+    .p3{
+        font-size: 8px; margin-bottom:0px;
+    }
+    .p4{
+      font-size: 8px;padding: 0px;margin-top:0px; margin-bottom:0px;
+  }
+  .hproj{
+    margin-top:-5px;margin-bottom:10px;font-size: 10px;
+    }
+    .breadcrumb-item a {
+      color:white;
+      font-size: 10px;
+    }
+    .myImg{
+      width: 150px;
+      height: auto;
+
+    }
+}
+
+/*  (359px and down) */
+@media only screen and (max-width: 359px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: black;
+}
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+ 
+  #leftlogo{
+    width: 30px;
+  }
+
+  .vertical-menu {
+    width: 50px;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  #stuartimage{
+    width: auto;
+    height: 130px;
+  }
+  .p1{
+    padding: 0px;margin-top:0px; font-size: 8px;margin-bottom:0px;
+    }
+    .p2{
+        padding: 0px;margin-top:0px; font-size: 8px;
+    }
+    .p3{
+        font-size: 8px; margin-bottom:0px;
+    }
+    .p4{
+      font-size: 8px;padding: 0px;margin-top:0px; margin-bottom:0px;
+  }
+  .hproj{
+    margin-top:-5px;margin-bottom:10px;font-size: 10px;
+    }
+    .breadcrumb-item a {
+      color:white;
+      font-size: 10px;
+    }
+    .myImg{
+      width: 150px;
+      height: auto;
+
+    }
+}
+
+
+/* ( 360px and up) */
+@media only screen and (min-width: 360px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: burlywood;
+}
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+ 
+  #leftlogo{
+    width: 30px;
+  }
+
+  .vertical-menu {
+    width: 50px;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  #stuartimage{
+    width: auto;
+    height: 130px;
+  }
+  .p1{
+    padding: 0px;margin-top:0px; font-size: 8px;margin-bottom:0px;
+    }
+    .p2{
+        padding: 0px;margin-top:0px; font-size: 8px;
+    }
+    .p3{
+        font-size: 8px; margin-bottom:0px;
+    }
+    .p4{
+      font-size: 8px;padding: 0px;margin-top:0px; margin-bottom:0px;
+  }
+  .hproj{
+    margin-top:-5px;margin-bottom:10px;font-size: 10px;
+    }
+    .breadcrumb-item a {
+      color:white;
+      font-size: 10px;
+    }
+    .myImg{
+      width: 150px;
+      height: auto;
+
+    }
+}
+
+/* ( 480px and up) */
+@media only screen and (min-width: 480px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: darkorchid;
+}
+
   .responsive {
     width: 100%;
     height: auto;
@@ -106,6 +266,10 @@ margin-top:-5px;margin-bottom:10px;
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: bisque;
+} 
   .responsive {
     width: 80%;
     height: auto;
@@ -114,6 +278,11 @@ margin-top:-5px;margin-bottom:10px;
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: yellow;
+}
+
   .responsive {
     width: 60%;
     height: auto;
@@ -122,6 +291,11 @@ margin-top:-5px;margin-bottom:10px;
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: grey;
+}
+
   .responsive {
     width: 50%;
     height: auto;
@@ -130,6 +304,24 @@ margin-top:-5px;margin-bottom:10px;
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: pink;
+}
+
+  .responsive {
+    width: 40%;
+    height: auto;
+  }
+}
+
+/* Huge devices (large TVs, 2400px and up) */
+@media only screen and (min-width: 2400px) {
+  #bodyIndex {
+    margin: 0;
+    background-color: navy;
+}
+
   .responsive {
     width: 40%;
     height: auto;

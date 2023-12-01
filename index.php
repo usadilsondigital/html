@@ -56,7 +56,7 @@
 
 </head>
 
-<body>
+<body id="bodyIndex">
   <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-regular fa-up-to-line"></i></button>
 
   <nav class="navbar " style="height: 100px;">
