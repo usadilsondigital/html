@@ -137,6 +137,18 @@ div.copyright {position: fixed;bottom: 0;width: 340px;font-size: 12px;}
 #Div1RowProjDiv1 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex-direction: column;}/*flex: 1 0 0%;[flex-grow: 1;flex-shrink: 0;flex-basis: 0%;]*/
 #Div1RowProjLine1{width: 100%;margin-bottom:10px;font-size: 10px;}
 #Div1RowProjDiv2 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex-direction: column;}/*flex: 1 0 0%;[flex-grow: 1;flex-shrink: 0;flex-basis: 0%;]*/
+#Div2RowProjC1 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#Div2RowProjC2 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#Div2RowProjC3 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#Div3RowProjC1 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#Div3RowProjC2 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#Div3RowProjC3 {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 1 0 0%;}
+#btn1Proj1{width: 200px;height: 200px;}
+#btn2Proj1{width: 200px;height: 200px;}
+#btn3Proj1{width: 200px;height: 200px;}
+#btn4Proj1{width: 200px;height: 200px;}
+#btn5Proj1{width: 200px;height: 200px;}
+#btn6Proj1{width: 200px;height: 200px;}
 
 .responsive {width: 100%;height: auto;}
 #stuartimage{width: auto;height: 130px;}

@@ -78,8 +78,8 @@
 
             <div id="Div2RowProj">
 
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal1">
+                <div id="Div2RowProjC1">
+                    <button id="btn1Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                         <img class="myImg" src="./images/projects/a1.jpg" alt="Snow">
                         <span style="color:white;">MACEDON NY*</span>
                     </button>
@@ -95,8 +95,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                <div id="Div2RowProjC2">
+                    <button  id="btn2Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                         <img class="myImg" src="./images/projects/a2.jpg" alt="Snow">
                         <p style="color:white;">LOS GATOS CA*</p>
                     </button>
@@ -112,8 +112,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+                <div id="Div2RowProjC3">
+                    <button  id="btn3Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                         <img class="myImg" src="./images/projects/a3.jpg" alt="Snow">
                         <p style="color:white;">LOS GATOS CA*</p>
                     </button>
@@ -134,8 +134,8 @@
 
             <div id="Div3RowProj">
 
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal4">
+                <div id="Div3RowProjC1">
+                    <button id="btn4Proj1"  type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                         <img class="myImg" src="./images/projects/a4.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
@@ -151,8 +151,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal5">
+                <div id="Div3RowProjC2">
+                    <button id="btn5Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                         <img class="myImg" src="./images/projects/a5.jpg" alt="Snow">
                         <p style="color:white;">PALMYRA NY*</p>
                     </button>
@@ -168,8 +168,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col g-0">
-                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                <div id="Div3RowProjC3">
+                    <button id="btn6Proj1"  type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                         <img class="myImg" src="./images/projects/a6.jpg" alt="Snow">
                         <p style="color:white;">PALMYRA NY*</p>
                     </button>
