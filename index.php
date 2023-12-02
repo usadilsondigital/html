@@ -82,8 +82,8 @@
     <div class="col-10 g-0" style="padding-left:35px;">
 
       <img src="./images/front/frontimage.jpg" alt="FrontImage" width="100%" height="280" style="opacity: 0.5;">
-      <h3 style="margin-top:-5px;margin-bottom:0px;position:absolute;top:15%;"> <b>STUART M ALDERMAN</b></h3>
-      <h3 style="position:absolute;top:20%;"> <b> ARCHITECT AIA</b></h3>
+      <h3 id="stuartH3LineIndex"><b id="stuartLineIndex">STUART M ALDERMAN</b></h3>
+      <h3 id="architectH3LineIndex"> <b id="architectLineIndex"> ARCHITECT AIA</b></h3>
       <h4 style="position:absolute;top:25%;"> Design with a Personal Touch </h4>
 
       <div class="row g-0">

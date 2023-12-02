@@ -112,10 +112,12 @@ margin-top:-5px;margin-bottom:10px;
 
 /*  (359px and down) */
 @media only screen and (max-width: 359px) {
-  #bodyIndex {
-    margin: 0;
-    background-color: black;
-}
+#bodyIndex {margin: 0;background-color: white;}
+#stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
+#stuartLineIndex {font-size: 12px;}
+#architectH3LineIndex {position:absolute;top:18%;}
+#architectLineIndex {font-size: 12px;}
+
 
   .responsive {
     width: 100%;
