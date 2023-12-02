@@ -113,26 +113,31 @@ margin-top:-5px;margin-bottom:10px;
 /*  (359px and down) */
 @media only screen and (max-width: 359px) {
 #bodyIndex {margin: 0;background-color: white;}
+#solidbarIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:10px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 16%;}
+#leftlogo{width: 40px;}
+.vertical-menu {width: 45px;margin-top: 10px;font-size: 10px;}
+#rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 64%;padding-left:5px;}
 #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
 #stuartLineIndex {font-size: 12px;}
 #architectH3LineIndex {position:absolute;top:18%;}
 #architectLineIndex {font-size: 12px;}
-
+#designH4LineIndex {position:absolute;top:22%;}
+#designLineIndex {font-size: 14px;}
+#rightImage1Index {width:100%;height:130px;opacity: 0.5;}
+#rightDiv2Index {--bs-gutter-y: 0;--bs-gutter-x: 0;display: flex;flex-wrap: wrap;}
+#rightDiv2LeftIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 100%;padding-left:5px;}/*58*/
+#rightDiv2RightIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 100%;padding-left:5px;}/*41*/
+#rightImage2Index {width:100%;height:130px;opacity: 0.5;}
+#rightImage3Index {width:100%;height:130px;opacity: 0.5;}
 
   .responsive {
     width: 100%;
     height: auto;
   }
  
-  #leftlogo{
-    width: 30px;
-  }
+  
 
-  .vertical-menu {
-    width: 50px;
-    margin-top: 10px;
-    font-size: 12px;
-  }
+  
   #stuartimage{
     width: auto;
     height: 130px;

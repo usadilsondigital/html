@@ -67,7 +67,7 @@
   </nav>
 
   <div class="row g-0">
-    <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;">
+    <div id="solidbarIndex">
 
       <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
       <div class="vertical-menu">
@@ -79,19 +79,16 @@
     </div>
 
 
-    <div class="col-10 g-0" style="padding-left:35px;">
-
-      <img src="./images/front/frontimage.jpg" alt="FrontImage" width="100%" height="280" style="opacity: 0.5;">
+    <div id="rightDivIndex">
+      <img id="rightImage1Index" src="./images/front/frontimage.jpg" alt="FrontImage" >
       <h3 id="stuartH3LineIndex"><b id="stuartLineIndex">STUART M ALDERMAN</b></h3>
-      <h3 id="architectH3LineIndex"> <b id="architectLineIndex"> ARCHITECT AIA</b></h3>
-      <h4 style="position:absolute;top:25%;"> Design with a Personal Touch </h4>
+      <h3 id="architectH3LineIndex"><b id="architectLineIndex"> ARCHITECT AIA</b></h3>
+      <h4 id="designH4LineIndex"><span id="designLineIndex">Design with a Personal Touch</span></h4>
 
-      <div class="row g-0">
-        <div class="col-7 g-0"><img src="./images/front/frontimage2.jpg" alt="FrontImage" width="100%" height="250" style="opacity: 0.5;"></div>
-        <div class="col-5 g-0"><img src="./images/front/frontimage3.jpg" alt="FrontImage" width="100%" height="250" style="opacity: 0.5;"></div>
+      <div id="rightDiv2Index">
+        <div id="rightDiv2LeftIndex"><img  id="rightImage2Index" src="./images/front/frontimage2.jpg" alt="FrontImage2"></div>
+        <div id="rightDiv2RightIndex"><img  id="rightImage3Index" src="./images/front/frontimage3.jpg" alt="FrontImage3"></div>
       </div>
-
-
     </div>
 
 
