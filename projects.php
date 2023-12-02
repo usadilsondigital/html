@@ -44,7 +44,7 @@
     </nav>
 
     <div class="row g-0">
-        <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;">
+        <div id="solidbarIndex">
             <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
             <div class="vertical-menu">
                 <a href="index.php" class="active">Home</a>
@@ -54,32 +54,29 @@
             </div>
         </div>
 
-        <div class="col-10 g-0" style="padding-left:35px;">
+        <div id="DivMainProj">
 
-            <div class="row g-0">
-                <div class="col g-0">
-                    <h3 class="hproj"> <b>REPRESENTATIVE PROJECTS</b></h3>
+            <div id="Div1RowProj">
+                <div id="Div1RowProjDiv1">
+                    <h3 id="Div1RowProjLine1"> <b>REPRESENTATIVE PROJECTS</b></h3>
                 </div>
-                <div class="col g-0">
+                <div id="Div1RowProjDiv2">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="projects.php">One</a></li>
-                            <li class="breadcrumb-item"><a href="projects2.php">Two</a></li>
-                            <li class="breadcrumb-item"><a href="projects3.php">Three</a></li>
-                            <li class="breadcrumb-item"><a href="projects4.php">Four</a></li>
-                            <li class="breadcrumb-item"><a href="projects5.php">Five</a></li>
-                            <li class="breadcrumb-item"><a href="projects6.php">Six</a></li>
-                            <li class="breadcrumb-item"><a href="projects7.php">Seven</a></li>
-                            <li class="breadcrumb-item"><a href="projects8.php">Eight</a></li>
+                            <li class="breadcrumb-item"><a href="projects.php">1</a></li>
+                            <li class="breadcrumb-item"><a href="projects2.php">2</a></li>
+                            <li class="breadcrumb-item"><a href="projects3.php">3</a></li>
+                            <li class="breadcrumb-item"><a href="projects4.php">4</a></li>
+                            <li class="breadcrumb-item"><a href="projects5.php">5</a></li>
+                            <li class="breadcrumb-item"><a href="projects6.php">6</a></li>
+                            <li class="breadcrumb-item"><a href="projects7.php">7</a></li>
+                            <li class="breadcrumb-item"><a href="projects8.php">8</a></li>
                         </ol>
                     </nav>
                 </div>
             </div>
 
-
-
-
-            <div class="row g-0">
+            <div id="Div2RowProj">
 
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal1">
@@ -135,7 +132,7 @@
 
             </div>
 
-            <div class="row g-0">
+            <div id="Div3RowProj">
 
                 <div class="col g-0">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal4">
