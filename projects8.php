@@ -161,7 +161,7 @@
                             <div class="modal-content">
                                 <div class="modal-body">
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <img class="myImg" src="./images/projects/hb5.jpg" alt="Snow" style="width:100%;">
+                                    <img class="myImg" src="./images/projects/h5.jpg" alt="Snow" style="width:100%;">
                                 </div>
 
                             </div>
