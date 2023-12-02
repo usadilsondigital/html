@@ -31,18 +31,11 @@
 
     <script defer="" src="https://cdn.usefathom.com/script.js" data-site="ITUSEYJG"></script>
 
-    <style>
-        div p {
-            color: white;
-        }
-
-        
-
-    </style>
+    <style>div p {color: white;}</style>
 
 </head>
 
-<body>
+<body id="bodyBio">
 
     <nav class="navbar " style="height: 100px;">
         <div class="container">
@@ -52,18 +45,20 @@
     </nav>
 
     <div class="row g-0">
-        <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;">
-            <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
-            <div class="vertical-menu">
-                <a href="index.php" class="active">Home</a>
-                <a href="bio.php">About</a>
-                <a href="projects.php">Projects</a>
-                <a href="contact.php">Contact</a>
-            </div>
-        </div>
-        <div class="col-1 g-0"></div>
 
-        <div class="col-6 g-0" style=" text-align: center;">
+        <div id="solidbarIndex">
+        <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
+        <div class="vertical-menu">
+            <a href="index.php" class="active">Home</a>
+            <a href="bio.php">About</a>
+            <a href="projects.php">Projects</a>
+            <a href="contact.php">Contact</a>
+        </div>
+        </div>
+
+        <div id="DivMiddleBio"></div>
+
+        <div id="DivTextBio">
             <p class="p1">
                 STUART M. ALDERMAN ARCHITECT</p>
 
@@ -112,18 +107,10 @@
             <p class="p3">
                 HE CAN BRING TO BEAR HIS 45 PLUS YEARS OF EXPERIENCE IN ALL MANNER OF </p>
 
-            <p class="p1">
-                ARCHITECTURE AND DESIGN FOR YOUR PROJECT</p>
-
-            <p class="p1">
-                HE WORKS IN MANY STATES BUT PRINCIPALLY TEXAS, CALIFORNIA AND NEW YORK</p>
-
-            <p class="p1">
-                * &nbsp;DENOTES PROJECT DESIGNED BY STUART M. ALDERMAN ,AIA ARCHITECT WHILE A PRINCIPAL AT SKB </p>
-            <p class="p1">
-                ARCHITECTURE AND DESIGN OR BLOCK 16 ARCHITECTS AND URBANISTS
-            </p>
-
+            <p class="p1">ARCHITECTURE AND DESIGN FOR YOUR PROJECT</p>
+            <p class="p1">HE WORKS IN MANY STATES BUT PRINCIPALLY TEXAS, CALIFORNIA AND NEW YORK</p>
+            <p class="p1">* &nbsp;DENOTES PROJECT DESIGNED BY STUART M. ALDERMAN ,AIA ARCHITECT WHILE A PRINCIPAL AT SKB </p>
+            <p class="p1">ARCHITECTURE AND DESIGN OR BLOCK 16 ARCHITECTS AND URBANISTS</p>
             <p class="p4"> &nbsp;IT IS MY DESIRE TO GIVE YOU AN OPPORTUNITY </p>
             <p class="p4">TO EXPERIENCE DESIGN THAT ENHANCES YOUR HOME AND YOUR LIFE. </p>
             <p class="p4">I WANT TO YOU TO WAKE UP EVERY DAY AND BE GLAD YOU LIVE WHERE </p>

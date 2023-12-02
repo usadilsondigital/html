@@ -67,8 +67,8 @@
   </nav>
 
   <div class="row g-0">
+    
     <div id="solidbarIndex">
-
       <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
       <div class="vertical-menu">
         <a href="index.php" class="active">Home</a>
