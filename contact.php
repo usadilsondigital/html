@@ -33,12 +33,7 @@
 
 
     <style>
-        div.fixed {
-            position: fixed;
-            bottom: 30px;
-            left: 130px;
-            width: 400px;
-        }
+       
     </style>
 
 </head>
@@ -47,9 +42,9 @@
 
 
     <div class="row g-0">
-        <div class="col-1 g-0" style="border-top:10px black solid;text-align:right;padding-right:0px;margin-top:100px;">
+        <div id="solidbarContact">
 
-            <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
+        <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
             <div class="vertical-menu">
                 <a href="index.php" class="active">Home</a>
                 <a href="bio.php">About</a>
@@ -59,13 +54,12 @@
         </div>
 
 
-        <div class="col-11 g-0">
-            <div style="text-align: right;"><img src="./images/front/c1.jpg" alt="FrontImage" width="50%" height="180" style="opacity: 0.2;"></div>
-            <div style="text-align: right;"><img src="./images/front/c2.jpg" alt="FrontImage" width="75%" height="200" style="opacity: 0.2;"></div>
-            <div style="text-align: right;"><img src="./images/front/c3.jpg" alt="FrontImage" width="90%" height="240" style="opacity: 0.2;"></div>
-            <h3 style="margin-top:-5px;margin-bottom:0px;position:absolute;top:20%;margin-left:20px;"> <b>STUART M ALDERMAN</b></h3>
-            <h3 style="position:absolute;top:25%;margin-left:20px;"> <b> ARCHITECT AIA</b></h3>
-
+        <div id="DivRightContact">
+            <div id="rightDivImage1Contact" ><img id="rightImage1Contact" src="./images/front/c1.jpg" alt="FrontImage" ></div>
+            <div id="rightDivImage2Contact" ><img id="rightImage2Contact" src="./images/front/c2.jpg" alt="FrontImage" ></div>
+            <div id="rightDivImage3Contact" ><img id="rightImage3Contact"src="./images/front/c3.jpg" alt="FrontImage" ></div>
+            <h3 id="stuartH3LineIndex"><b id="stuartLineIndex">STUART M ALDERMAN</b></h3>
+            <h3 id="architectH3LineIndex"><b id="architectLineIndex"> ARCHITECT AIA</b></h3>
 
         </div>
 

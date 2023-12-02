@@ -149,6 +149,16 @@ div.copyright {position: fixed;bottom: 0;width: 340px;font-size: 12px;}
 #btn4Proj1{width: 200px;height: 200px;}
 #btn5Proj1{width: 200px;height: 200px;}
 #btn6Proj1{width: 200px;height: 200px;}
+/*Contact*/
+#solidbarContact {flex: 0 0 auto;width: 16%;border-top:10px black solid;text-align:right;padding-right:0px;margin-top:100px;}
+#DivRightContact {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 80%;padding-left:5px;}
+#rightDivImage1Contact {text-align: right;}
+#rightDivImage2Contact {text-align: right;}
+#rightDivImage3Contact {text-align: right;}
+#rightImage1Contact {width:50%;height:150px;opacity: 0.2;}
+#rightImage2Contact {width:70%;height:160px;opacity: 0.2;}
+#rightImage3Contact {width:100%;height:180px;opacity: 0.2;}
+div.fixed {position: fixed;bottom: 130px;left: 15px;width: auto; font-size: 12px;}
 
 .responsive {width: 100%;height: auto;}
 #stuartimage{width: auto;height: 130px;}
