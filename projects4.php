@@ -97,7 +97,7 @@
                 </div>
                 <div id="Div2RowProjC2">
                     <button  id="btn2Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                        <img class="myImg" src="./images/projects/d2.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/d2short.jpg" alt="Snow">
                         <p style="color:white;">LAKE TRAVIS TX*</p>
                     </button>
                     <div class="modal" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
