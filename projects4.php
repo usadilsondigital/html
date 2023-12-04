@@ -114,7 +114,7 @@
                 </div>
                 <div id="Div2RowProjC3">
                     <button  id="btn3Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                        <img class="myImg" src="./images/projects/d3.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/d3short.jpg" alt="Snow">
                         <p style="color:white;">BASTROP COUNTY TX*</p>
                     </button>
                     <div class="modal" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -170,7 +170,7 @@
                 </div>
                 <div id="Div3RowProjC3">
                     <button id="btn6Proj1"  type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal6">
-                        <img class="myImg" src="./images/projects/d6.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/d6short.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">

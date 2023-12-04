@@ -97,7 +97,7 @@
                 </div>
                 <div id="Div2RowProjC2">
                     <button  id="btn2Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                        <img class="myImg" src="./images/projects/b2.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/b2short.jpg" alt="Snow">
                         <p style="color:white;">CEDAR PARK TX*</p>
                     </button>
                     <div class="modal" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -114,7 +114,7 @@
                 </div>
                 <div id="Div2RowProjC3">
                     <button  id="btn3Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                        <img class="myImg" src="./images/projects/b3.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/b3short.jpg" alt="Snow">
                         <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -136,7 +136,7 @@
 
                 <div id="Div3RowProjC1">
                     <button id="btn4Proj1"  type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal4">
-                        <img class="myImg" src="./images/projects/b4.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/b4short.jpg" alt="Snow">
                         <p style="color:white;">AUSTIN TX*</p>
                     </button>
                     <div class="modal" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
