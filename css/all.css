@@ -25,92 +25,12 @@
   color:white;
 }
 
-
-
-/*Responsive*/
-
-#leftlogo{
-  margin-top:15px;
-}
-
-.p1{
-  padding: 0px;margin-top:0px; font-size: 12px;margin-bottom:0px;
-}
-.p2{
-  padding: 0px;margin-top:0px; font-size: 12px;
-}
-.p3{
-  font-size: 12px; margin-bottom:0px;
-}
-.p4{
-  font-size: 14px;padding: 0px;margin-top:0px; margin-bottom:0px;
-}
-.hproj{
-margin-top:-5px;margin-bottom:10px;
-}
-.myImg{
-  width: 300px;
-  height: 200px;
-
-}
-
-
-@media only screen and (min-width: 600px) {
-  #bodyIndex {
-    margin: 0;
-    background-color: red;
-}
-
-  .responsive {
-    width: 100%;
-    height: auto;
-  }
- 
-  #leftlogo{
-    width: 30px;
-  }
-
-  .vertical-menu {
-    width: 50px;
-    margin-top: 10px;
-    font-size: 12px;
-  }
-  #stuartimage{
-    width: auto;
-    height: 130px;
-  }
-  .p1{
-    padding: 0px;margin-top:0px; font-size: 8px;margin-bottom:0px;
-    }
-    .p2{
-        padding: 0px;margin-top:0px; font-size: 8px;
-    }
-    .p3{
-        font-size: 8px; margin-bottom:0px;
-    }
-    .p4{
-      font-size: 8px;padding: 0px;margin-top:0px; margin-bottom:0px;
-  }
-  .hproj{
-    margin-top:-5px;margin-bottom:10px;font-size: 10px;
-    }
-    .breadcrumb-item a {
-      color:white;
-      font-size: 10px;
-    }
-    .myImg{
-      width: 150px;
-      height: auto;
-
-    }
-}
-
 /*  (359px and down) */
 @media only screen and (max-width: 359px) {
 #bodyIndex {margin: 0;background-color: white;}
 #solidbarIndex {z-index:2;--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:10px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 16%;}
-#leftlogo{width: 40px;}
-.vertical-menu {width: 45px;margin-top: 10px;font-size: 10px;}
+#leftlogo{width: 30px;}
+.vertical-menu {width: 55px;margin-top: 10px;font-size: 10px;}
 #rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 64%;padding-left:5px;}
 #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
 #stuartLineIndex {font-size: 12px;}
@@ -176,7 +96,7 @@ div.fixed {position: fixed;bottom: 130px;left: 15px;width: auto; font-size: 12px
 @media only screen and (min-width: 360px) {
 #bodyIndex {margin: 0;background-color: white;}
 #solidbarIndex {z-index:2;--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:10px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 16%;}
-#leftlogo{width: 40px;}
+#leftlogo{width: 30px;margin-top:15px}
 .vertical-menu {width: 100%;margin-top: 10px;font-size: 10px;}
 #rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 79%;padding-left:5px;}
 #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
@@ -308,7 +228,7 @@ div.fixed {position: fixed;bottom: 130px;left: 15px;width: auto; font-size: 14px
 @media only screen and (min-width: 600px) {
   #bodyIndex {margin: 0;background-color: white;}
   #solidbarIndex {z-index:2;--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:10px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 12%;}
-  #leftlogo{width: 50px;}
+  #leftlogo{width: 40px;}
   .vertical-menu {width: 100%;margin-top: 10px;font-size: 14px;}
   #rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 79%;padding-left:10px;}
   #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
@@ -374,7 +294,7 @@ div.fixed {position: fixed;bottom: 130px;left: 15px;width: auto; font-size: 14px
 @media only screen and (min-width: 768px) {
   #bodyIndex {margin: 0;background-color: white;}
   #solidbarIndex {z-index:2;--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:10px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 12%;}
-  #leftlogo{width: 50px;}
+  #leftlogo{width: 40px;}
   .vertical-menu {width: 100%;margin-top: 10px;font-size: 14px;}
   #rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 79%;padding-left:10px;}
   #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:15%;}
@@ -638,7 +558,7 @@ div.fixed {position: fixed;bottom: 130px;left: 15px;width: auto; font-size: 14px
 @media only screen and (min-width: 2400px) {
   #bodyIndex {margin: 0;background-color: white;}
   #solidbarIndex {z-index:2;--bs-gutter-y: 0;--bs-gutter-x: 0;border-top:20px black solid;text-align:right;padding-right:0px;flex: 0 0 auto;width: 12%;}
-  #leftlogo{width: 80px;}
+  #leftlogo{width: 70px;}
   .vertical-menu {width: 100%;margin-top: 10px;font-size: 26px;}
   #rightDivIndex {--bs-gutter-y: 0;--bs-gutter-x: 0;flex: 0 0 auto;  width: 84%;padding-left:10px;}
   #stuartH3LineIndex {margin-top:-5px;  margin-bottom:0px;position:absolute;top:18%;}

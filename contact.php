@@ -44,7 +44,7 @@
     <div class="row g-0">
         <div id="solidbarContact">
 
-        <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart" style="margin-top:15px;">
+        <img id="leftlogo" src="./images/logo4.png" alt="Logo Stuart">
             <div class="vertical-menu">
                 <a href="index.php" class="active">Home</a>
                 <a href="bio.php">About</a>
