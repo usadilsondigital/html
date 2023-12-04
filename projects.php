@@ -81,7 +81,7 @@
                 <div id="Div2RowProjC1">
                     <button id="btn1Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                         <img class="myImg" src="./images/projects/a1.jpg" alt="Snow">
-                        <span style="color:white;">MACEDON NY*</span>
+                        <p style="color:white;">MACEDON NY*</p>
                     </button>
                     <div class="modal" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -97,7 +97,7 @@
                 </div>
                 <div id="Div2RowProjC2">
                     <button  id="btn2Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                        <img class="myImg" src="./images/projects/a2.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/a2short.jpg" alt="Snow">
                         <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -114,7 +114,7 @@
                 </div>
                 <div id="Div2RowProjC3">
                     <button  id="btn3Proj1" type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                        <img class="myImg" src="./images/projects/a3.jpg" alt="Snow">
+                        <img class="myImg" src="./images/projects/a3short.jpg" alt="Snow">
                         <p style="color:white;">LOS GATOS CA*</p>
                     </button>
                     <div class="modal" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
