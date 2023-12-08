@@ -61,18 +61,18 @@
                     <h3 id="Div1RowProjLine1"> <b>REPRESENTATIVE PROJECTS</b></h3>
                 </div>
                 <div id="Div1RowProjDiv2">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="projects.php">1</a></li>
-                            <li class="breadcrumb-item"><a href="projects2.php">2</a></li>
-                            <li class="breadcrumb-item"><a href="projects3.php">3</a></li>
-                            <li class="breadcrumb-item"><a href="projects4.php">4</a></li>
-                            <li class="breadcrumb-item"><a href="projects5.php">5</a></li>
-                            <li class="breadcrumb-item"><a href="projects6.php">6</a></li>
-                            <li class="breadcrumb-item"><a href="projects7.php">7</a></li>
-                            <li class="breadcrumb-item"><a href="projects8.php">8</a></li>
-                        </ol>
-                    </nav>
+                    <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+                        <div class="btn-group me-2" role="group" aria-label="Second group">
+                            <a id="btn1" href="projects.php"  type="button" class="btn btn-secondary">1</a>
+                            <a id="btn2" href="projects2.php"  type="button" class="btn btn-secondary">2</a>
+                            <a id="btn3" href="projects3.php"  type="button" class="btn btn-secondary">3</a>
+                            <a id="btn4" href="projects4.php"  type="button" class="btn btn-secondary">4</a>
+                            <a id="btn5" href="projects5.php"  type="button" class="btn btn-secondary">5</a>
+                            <a id="btn6" href="projects6.php"  type="button" class="btn btn-secondary">6</a>
+                            <a id="btn7" href="projects7.php"  type="button" class="btn btn-secondary">7</a>
+                            <a id="btn8" href="projects8.php"  type="button" class="btn btn-secondary">8</a>
+                        </div>
+                    </div>
                 </div>
             </div>
 
